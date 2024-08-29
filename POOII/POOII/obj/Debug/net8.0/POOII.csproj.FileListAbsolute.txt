@@ -1,0 +1,14 @@
+/Users/mariaclaramoura/Documents/Faculdade/4 Período/Programação Orientada a Objetos II/POOII Rider/POOII/POOII/bin/Debug/net8.0/POOII
+/Users/mariaclaramoura/Documents/Faculdade/4 Período/Programação Orientada a Objetos II/POOII Rider/POOII/POOII/bin/Debug/net8.0/POOII.deps.json
+/Users/mariaclaramoura/Documents/Faculdade/4 Período/Programação Orientada a Objetos II/POOII Rider/POOII/POOII/bin/Debug/net8.0/POOII.runtimeconfig.json
+/Users/mariaclaramoura/Documents/Faculdade/4 Período/Programação Orientada a Objetos II/POOII Rider/POOII/POOII/bin/Debug/net8.0/POOII.dll
+/Users/mariaclaramoura/Documents/Faculdade/4 Período/Programação Orientada a Objetos II/POOII Rider/POOII/POOII/bin/Debug/net8.0/POOII.pdb
+/Users/mariaclaramoura/Documents/Faculdade/4 Período/Programação Orientada a Objetos II/POOII Rider/POOII/POOII/obj/Debug/net8.0/POOII.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariaclaramoura/Documents/Faculdade/4 Período/Programação Orientada a Objetos II/POOII Rider/POOII/POOII/obj/Debug/net8.0/POOII.AssemblyInfoInputs.cache
+/Users/mariaclaramoura/Documents/Faculdade/4 Período/Programação Orientada a Objetos II/POOII Rider/POOII/POOII/obj/Debug/net8.0/POOII.AssemblyInfo.cs
+/Users/mariaclaramoura/Documents/Faculdade/4 Período/Programação Orientada a Objetos II/POOII Rider/POOII/POOII/obj/Debug/net8.0/POOII.csproj.CoreCompileInputs.cache
+/Users/mariaclaramoura/Documents/Faculdade/4 Período/Programação Orientada a Objetos II/POOII Rider/POOII/POOII/obj/Debug/net8.0/POOII.dll
+/Users/mariaclaramoura/Documents/Faculdade/4 Período/Programação Orientada a Objetos II/POOII Rider/POOII/POOII/obj/Debug/net8.0/refint/POOII.dll
+/Users/mariaclaramoura/Documents/Faculdade/4 Período/Programação Orientada a Objetos II/POOII Rider/POOII/POOII/obj/Debug/net8.0/POOII.pdb
+/Users/mariaclaramoura/Documents/Faculdade/4 Período/Programação Orientada a Objetos II/POOII Rider/POOII/POOII/obj/Debug/net8.0/POOII.genruntimeconfig.cache
+/Users/mariaclaramoura/Documents/Faculdade/4 Período/Programação Orientada a Objetos II/POOII Rider/POOII/POOII/obj/Debug/net8.0/ref/POOII.dll
